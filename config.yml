@@ -1,0 +1,8 @@
+broker:
+  hostname: 6b1393fea63e4870b5c2d59841f32c1d.s2.eu.hivemq.cloud # WARNING: ephemeral
+  port: 8883
+
+topics:
+  imu_sensor: 'imu-sensor'
+
+secrets_file: 'secrets.yml'
